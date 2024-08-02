@@ -1,1 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 177, 32);
+}
 
+.Shorts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Video {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+}
+
+header {
+    background-color: rgb(255, 103, 48);
+    padding: 15px;
+}
+
+footer {
+    background-color: rgb(255, 103, 48);
+    padding: 15px;
+}
